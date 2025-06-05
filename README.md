@@ -1,3 +1,1 @@
-## Demo del Proyecto
 
-[![Ver demo en YouTube](https://img.youtube.com/vi/uUEalF03e1I/0.jpg)](https://www.youtube.com/watch?v=uUEalF03e1I)
